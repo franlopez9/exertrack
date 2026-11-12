@@ -34,25 +34,6 @@
 
 ---
 
-## 🚀 Cómo Publicar en GitHub Pages
-
-1. **Subir archivos a tu repositorio:**
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit - FitTracker"
-   git branch -M main
-   git remote add origin https://github.com/TU_USUARIO/NOMBRE_REPOSOTORIO.git
-   git push -u origin main
-   ```
-2. **Activar GitHub Pages:**
-   - Ve a la pestaña **Settings** de tu repositorio en GitHub.
-   - En el menú lateral izquierdo, haz clic en **Pages**.
-   - En la sección **Build and deployment > Branch**, selecciona `main` y guarda (`/root`).
-   - ¡Listo! En unos momentos tendrás un enlace público tipo `https://tu-usuario.github.io/nombre-repositorio/`.
-
----
-
 ## 📄 Licencia
 
 Este proyecto es de código abierto y está disponible bajo la licencia **MIT**. ¡Siéntete libre de adaptarlo y usarlo para tus propias rutinas de ejercicio!
